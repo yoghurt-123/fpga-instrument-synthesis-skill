@@ -1,0 +1,4 @@
+interface:
+  display_name: "FPGA 钢琴与电吉他音色"
+  short_description: "从参考录音提取分音与包络，优化低存储 FPGA 钢琴及电吉他合成音色"
+  default_prompt: "使用 $fpga-instrument-synthesis 分析我的参考 WAV 和现有 RTL，先优化一个音并生成可对比试听。"
