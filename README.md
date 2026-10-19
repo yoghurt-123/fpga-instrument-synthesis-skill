@@ -18,6 +18,11 @@ DeepSeek等其他助手：提供SKILL.md和与任务有关的references文件，
 
 ## 内容
 
+近期记录与计划（不等同于已实现功能）：
+
+- [四和弦音高身份修复](docs/chord-identity-repair-20261019.md)：独立槽参数、品位与表情资格、统一提交；区分音高与Fmax问题。
+- [架子鼓实时合成计划](docs/drum-synthesis-plan-20261019.md)：WAV提取、模态与噪声算法、定点资源、三乐器并发和网口。
+
 - `wav-analysis.md`：起音对齐、单位统一、分音和衰减参数提取。
 - `piano.md`：钢琴音色、音符和复音。
 - `guitar.md`：清音、拨弦、弦号与品位、过载和尾音。
